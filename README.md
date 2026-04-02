@@ -1,4 +1,4 @@
-### Olá! Me chamo Luiz Estrela e faço Ciência da Computação! Atualmente estou estudando Java.
+### Olá! Me chamo Luiz Estrela e faço Ciência da Computação! Atualmente estou estudando Python.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-estrela-367a35235/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luiz.estrelaf3@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/estrelaf3/)
